@@ -1,0 +1,10 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{Задание 1}{2}{chapter*.1}%
+\contentsline {section}{Первая гипотеза}{2}{section*.2}%
+\contentsline {section}{Вторая гипотеза}{3}{equation.0.0.1}%
+\contentsline {chapter}{Задание 2}{5}{chapter*.3}%
+\contentsline {section}{Модель}{5}{section*.4}%
+\contentsline {section}{Data preprocessing}{6}{figure.0.2}%
+\contentsline {section}{Нейросеть и гиперпараметры}{7}{figure.0.2}%
+\contentsline {section}{Критерий остановки}{8}{figure.0.2}%
+\contentsline {section}{Итоги}{10}{figure.0.5}%
